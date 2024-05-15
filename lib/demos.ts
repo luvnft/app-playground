@@ -6,7 +6,7 @@ export type Item = {
 
 export const demos: { name: string; items: Item[] }[] = [
   {
-    name: 'Layouts',
+    name: 'START',
     items: [
       {
         name: 'Nested Layouts',
@@ -26,7 +26,7 @@ export const demos: { name: string; items: Item[] }[] = [
     ],
   },
   {
-    name: 'File Conventions',
+    name: 'MARKET',
     items: [
       {
         name: 'Loading',
@@ -47,7 +47,7 @@ export const demos: { name: string; items: Item[] }[] = [
     ],
   },
   {
-    name: 'Data Fetching',
+    name: 'DISCORD',
     items: [
       {
         name: 'Streaming with Suspense',
@@ -73,7 +73,7 @@ export const demos: { name: string; items: Item[] }[] = [
     ],
   },
   {
-    name: 'Components',
+    name: 'QUEST',
     items: [
       {
         name: 'Client Context',
@@ -84,7 +84,7 @@ export const demos: { name: string; items: Item[] }[] = [
     ],
   },
   {
-    name: 'Misc',
+    name: 'LUV METAVERSE',
     items: [
       {
         name: 'Patterns',
