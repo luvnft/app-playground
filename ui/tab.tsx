@@ -21,7 +21,7 @@ export const Tab = ({
     // Example home pages e.g. `/layouts`
     (!item.slug && segment === null) ||
     segment === item.segment ||
-    // Nested pages e.g. `/layouts/electronics`
+    // Nested pages e.g. `/layouts/discord`
     segment === item.slug;
 
   return (
